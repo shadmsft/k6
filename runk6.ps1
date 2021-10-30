@@ -9,7 +9,6 @@ latest: Pulling from loadimpact/k6
 <<omitted>>
 docker.io/loadimpact/k6:lates
 
-rgName=k6; aciName=loadtest
-$ az group create -n $rgName -l southcentralus
-$ az container create -g $rgName -n $aciName --image loadimpact/k6 --command-line "k6 run github.com/loadimpact/k6/samples/http_get.js" --restart-policy Never
-$ az container logs -g $rgName -n $aciName --follow
+az group create -n k6 -l southcentralus
+az container create -g k6 -n loadtest --image loadimpact/k6 --command-line "k6 run --vus 200 --duration 240m raw.githubusercontent.com/shadmsft/k6/main/test.js" --restart-policy Never
+az container logs -g k6 -n loadtest --follow
