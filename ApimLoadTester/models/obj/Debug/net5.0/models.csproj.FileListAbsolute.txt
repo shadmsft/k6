@@ -1,0 +1,12 @@
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\bin\Debug\net5.0\models.deps.json
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\bin\Debug\net5.0\models.dll
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\bin\Debug\net5.0\ref\models.dll
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\bin\Debug\net5.0\models.pdb
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\models.csproj.AssemblyReference.cache
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\models.AssemblyInfoInputs.cache
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\models.AssemblyInfo.cs
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\models.csproj.CoreCompileInputs.cache
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\models.dll
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\ref\models.dll
+C:\src\github\shadmsft\apimautoscale\ApimLoadTester\models\obj\Debug\net5.0\models.pdb
